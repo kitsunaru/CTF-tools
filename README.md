@@ -55,4 +55,4 @@ https://www.revshells.com/
 
 ## Rev
 
-Ghidra and Cutter are my personal favorites, though I use Cutter more.
+Ghidra and Cutter are my personal favorites, leaning towards Ghidra at the moment.
